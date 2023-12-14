@@ -2,6 +2,7 @@
 src = 'src'
 out = 'out'
 libs = ['lib']
+test = 'test'
 verbosity = 4
 fs_permissions = [{access='read', path='.'}]
 
