@@ -1,6 +1,6 @@
 ## Mr Steal Yo Crypto CTF solved with Foundry
 
-Solving Ethernaut CTF with Foundry.
+Solving Mr Steal Yo Crypto CTF with Foundry.
 
 - ✅ 1. Jpeg Sniper
 - ❌ 2. Safu Vault
@@ -28,3 +28,4 @@ Solving Ethernaut CTF with Foundry.
 ```shell
 forge test --match-path test/challenge-name.sol
 ```
+or using `GitHub Actions` workflow.
