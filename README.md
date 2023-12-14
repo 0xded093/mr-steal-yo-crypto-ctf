@@ -15,7 +15,7 @@ Solving Ethernaut CTF with Foundry.
 - ❌ 11. Bonding Curve
 - ❌ 12. Flash Loaner
 - ❌ 13. Safu Swapper
-- ❌ 14. Side Entrance
+- ✅ 14. Side Entrance
 - ❌ 15. Malleable
 - ❌ 16. Extractoor
 - ❌ 17. Opyn Sesame
